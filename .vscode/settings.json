@@ -1,0 +1,10 @@
+{
+    "fiveServer.php.executable": "/usr/bin/php",
+    "php.validate.enable": true,
+    "[php]": {
+        "editor.defaultFormatter": "felixfbecker.php-intellisense",
+        "editor.formatOnSave": true,
+    }
+}
+
+
