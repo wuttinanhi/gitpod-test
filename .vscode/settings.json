@@ -2,7 +2,7 @@
     "fiveServer.php.executable": "/usr/bin/php",
     "php.validate.enable": true,
     "[php]": {
-        "editor.defaultFormatter": "felixfbecker.php-intellisense",
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
         "editor.formatOnSave": true,
     }
 }
